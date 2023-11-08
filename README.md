@@ -116,6 +116,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://Bakarijack.github.io/Bakarijack/grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://Bakarijack.github.io/Bakarijack/grid-snake-light.svg" />
-  <img alt="GitHub contribution animation" src="https://Bakarijack.github.io/Bakarijack/grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Bakarijack/Bakarijack/output/snake.svg" alt="Snake animation" />
 </picture>
 
