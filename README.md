@@ -120,6 +120,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://Bakarijack.github.io/Bakarijack/grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://Bakarijack.github.io/Bakarijack/grid-snake-light.svg" />
+  <img alt="GitHub contribution animation" src="https://Bakarijack.github.io/Bakarijack/grid-snake.svg" />
+</picture>
+
 _generated with [Platane/snk](https://github.com/Bakarijack/snk)_
 
 
