@@ -112,6 +112,7 @@
 
 <hr>
 <div>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Bakarijack&theme=dark&background=000000" />
+  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=Bakarijack&theme=dark&background=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakarijack&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
