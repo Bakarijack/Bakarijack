@@ -106,13 +106,13 @@
 <hr>
 &nbsp;
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bakarijack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=Bakarijack&theme=dark&background=000000" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bakarijack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
 <hr>
 <div>
-  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=Bakarijack&theme=dark&background=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bakarijack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakarijack&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
