@@ -3,7 +3,7 @@
 </div>
 
 <h4 align="left">Hi 👋! I'm Bakari</h2>
-<p>I'm a passionate software developer/enthusiast with a strong love for fullstack technologies and a deep curiosity for everything tech-related. I enjoy tackling complex problems, building innovative solutions, and continuously learning and growing in the ever-evolving world of software development.</p>
+<p>"Welcome to the world of innovation and seamless digital experiences! As a dedicated web and mobile developer, I specialize in crafting captivating and functional solutions that resonate with users worldwide. With a passion for cutting-edge technologies and a keen eye for detail, I strive to create stunning applications that not only meet but exceed expectations. Whether you're looking to elevate your online presence or revolutionize your mobile platform, you've come to the right place. Let's embark on a journey of creativity, efficiency, and limitless possibilities together!"</p>
 &nbsp;
 <div>
   🌍 Location:   Kenya <br>
