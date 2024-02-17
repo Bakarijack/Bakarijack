@@ -116,3 +116,8 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakarijack&layout=compact&theme=vision-friendly-dark" height="150"/>
 </div>
 
+<hr>
+ <div align="center">
+    <img width="80%" src="https://github.com/Bakarijack/Bakarijack/blob/output/github-contribution-grid-snake.svg" height="150"/>
+ </div>
+
