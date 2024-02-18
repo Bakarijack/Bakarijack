@@ -118,6 +118,9 @@
 
 <hr>
  <div align="center">
-    <img width="80%" src="https://github.com/Bakarijack/Bakarijack/blob/output/github-contribution-grid-snake.svg" height="150"/>
- </div>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://Bakarijack.github.io/Bakarijack/grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://Bakarijack.github.io/Bakarijack/grid-snake-light.svg" />
+  <img alt="GitHub contribution animation" src="https://Bakarijack.github.io/Bakarijack/grid-snake.svg" />
+</picture>
 
