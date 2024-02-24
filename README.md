@@ -42,8 +42,6 @@
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="20" alt="laravel logo"  />
-      <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="20" alt="spring logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="20" alt="django logo"  />
