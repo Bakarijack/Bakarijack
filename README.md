@@ -8,7 +8,8 @@
 
 <p>
 🌍 Based in Mombasa, Kenya  
-I build fast, functional, and user-focused web apps — from beautiful UIs to powerful backends</p>
+I build fast, functional, and user-focused web apps — from beautiful UIs to powerful backends
+</p>
 
 <p>
 🧰 Tech I Love: JavaScript, TypeScript, PHP, Node.js, MongoDB, MySQL
@@ -17,33 +18,18 @@ I build fast, functional, and user-focused web apps — from beautiful UIs to po
 🎯 Current Focus: Travel APIs, Dashboards, E-commerce Platforms
 </p>
 
-<p>💡 Always building. Always learning.  
-📬 Let’s connect and create something awesome!</p>
-&nbsp;
-<hr>
-&nbsp;
+<p>💡 Always building. Always learning.
+</p>
 
-      
-      
-  <div align="right" width="30%">
+<p>
+📬 Let’s connect and create something awesome!
+</p>
+
+<div align="right" width="30%">
           <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  </div>
 </div>
 
-<hr>
-&nbsp;
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  width="80"/>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitch logo" width="80" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  width="80"/>
-  <a href="mailto:bakarikilu254@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  width="80"/></a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  width="80"/>
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  width="80"/>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="telegram logo"  width="80"/>
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="stackoverflow logo" width="80" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  width="80"/>
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="whatsapp logo"  width="80"/>
-</div>
+
 <hr>
 &nbsp;
 <div align="center">
