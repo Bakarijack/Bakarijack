@@ -31,13 +31,6 @@ I build fast, functional, and user-focused web apps — from beautiful UIs to po
 
 
 <hr>
-&nbsp;
 <div align="center">
   <img height="200" width="80%" src="http://github-readme-streak-stats.herokuapp.com?user=Bakarijack&theme=dark&background=000000" />
-</div>
-
-<hr>
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Bakarijack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakarijack&layout=compact&theme=vision-friendly-dark" height="150"/>
 </div>
