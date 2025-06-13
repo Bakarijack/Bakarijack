@@ -3,11 +3,17 @@
 </div>
 
 <h4 align="left">👋 Hi, I'm Bakari Kilu</h2>
-<p>🚀 Full-Stack Developer | 🌍 Based in Mombasa, Kenya  
+<p>🚀 Full-Stack Developer | Mobile App Developer 
+</p>
+
+<p>
+🌍 Based in Mombasa, Kenya  
 I build fast, functional, and user-focused web apps — from beautiful UIs to powerful backends</p>
 
 <p>
-  🧰 Tech I Love: JavaScript, TypeScript, PHP, Node.js, MongoDB, MySQL  
+🧰 Tech I Love: JavaScript, TypeScript, PHP, Node.js, MongoDB, MySQL
+</p>
+<p>
 🎯 Current Focus: Travel APIs, Dashboards, E-commerce Platforms
 </p>
 
@@ -49,12 +55,3 @@ I build fast, functional, and user-focused web apps — from beautiful UIs to po
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Bakarijack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakarijack&layout=compact&theme=vision-friendly-dark" height="150"/>
 </div>
-
-<hr>
- <div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://Bakarijack.github.io/Bakarijack/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://Bakarijack.github.io/Bakarijack/grid-snake-light.svg" />
-  <img alt="GitHub contribution animation" src="https://Bakarijack.github.io/Bakarijack/grid-snake.svg" />
-</picture>
-
