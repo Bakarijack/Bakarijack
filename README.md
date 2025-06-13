@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="394" width="100%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
+  <img height="auto" width="100%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
 </div>
 
 <h4 align="left">Hi 👋! I'm Bakari</h2>
