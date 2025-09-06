@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1>👋 Hi, I'm Bakari Kilu</h1>
-  <p>🚀 Full-Stack Developer | Mobile App Developer</p>
+  <p>🚀 Full-Stack Web Developer | Mobile App Developer</p>
 </div>
 
 ###
@@ -29,4 +29,5 @@ Feel free to connect with me on LinkedIn, follow me on GitHub, or reach out via 
 <div align="right" width="30%">
           <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 
