@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h1>👋 Hi, Bakari Kilu Here!,and You?</h1>
+  <h1>👋 Hi, Bakari Kilu here!,and You?</h1>
   <p>🚀 Full-Stack Web Developer | Mobile App Developer</p>
 </div>
 
