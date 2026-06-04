@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h1>👋 Hi, how have you been?</h1>
+  <h1>Professional bug creator. Occasional bug fixer. 🚀</h1>
   <p>🚀 Full-Stack Web Developer | Mobile App Developer</p>
 </div>
 
