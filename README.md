@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1>Professional bug creator. Occasional bug fixer. 🚀</h1>
-  <p>🚀 Full-Stack Web Developer | Mobile App Developer</p>
+  <p>Full-Stack Web Developer | Mobile App Developer</p>
 </div>
 
 ###
